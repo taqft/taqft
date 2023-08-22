@@ -1,4 +1,4 @@
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=taqft&show_icons=true&theme=tokyonight&hide=contribs)](https://taqft.github.io/react_portfolio/) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taqft&layout=compact&theme=tokyonight)](https://taqft.github.io/react_portfolio/)
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=taqft&show_icons=true&theme=tokyonight&hide=contribs&include_all_commits)](https://taqft.github.io/react_portfolio/) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taqft&layout=compact&theme=tokyonight)](https://taqft.github.io/react_portfolio/)
 
 - 👋 Hi, I’m Ben Koenig.
 - 👀 I’m interested in Automation, UI/UX, Game Design, and being a part of a community focused on continuous learning.
