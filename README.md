@@ -1,4 +1,11 @@
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=taqft&include_all_commits=true&show_icons=true&rank_icon=github&theme=tokyonight&hide=contribs&cache_seconds=15003)](https://taqft.github.io/react_portfolio/) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taqft&layout=compact&theme=tokyonight&include_all_commits&cache_seconds=15000)](https://taqft.github.io/react_portfolio/)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=taqft&include_all_commits=true&show_icons=true&rank_icon=github&theme=tokyonight&hide=contribs&cache_seconds=15003)" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taqft&layout=compact&langs_count=8&card_width=320&theme=tokyonight&include_all_commits&size_weight=0.5&count_weight=0.5&cache_seconds=15003)" />
+</a>
+
+<hr />
 
 - 👋 Hi, I’m Ben Koenig.
 - 👀 I’m interested in Automation, UI/UX, Game Design, and being a part of a community focused on continuous learning.
