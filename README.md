@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=taqft&hide=contribs&include_all_commits=true&rank_icon=github&show_icons=true&theme=github_dark_dimmed&cache_seconds=15003" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?cache_seconds=15003&username=taqft&hide=contribs&include_all_commits=true&show_icons=true&rank_icon=github&theme=github_dark_dimmed" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taqft&layout=compact&include_all_commits=true&langs_count=8&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&cache_seconds=15003" />
+  <img height=190 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?cache_seconds=15003&username=taqft&layout=compact&include_all_commits=true&langs_count=8&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed" />
 </a>
 
 <hr />
