@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats-xi-nine-64.vercel.app/api?username=taqft&custom_title=GitHub%20Stats&hide=contribs&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark" />
+  <img height=190 align="center" src="https://github-readme-stats-xi-nine-64.vercel.app/api?username=taqft&custom_title=GitHub%20Stats&hide=contribs&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=190 width=300 align="center" src="https://github-readme-stats-xi-nine-64.vercel.app/api/top-langs/?cache_seconds=15003&username=taqft&layout=compact&include_all_commits=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=github_dark" />
