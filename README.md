@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-taqft.vercel.app/api?cache_seconds=86401&username=taqft&custom_title=GitHub%20Stats&card_width=339.75px&line_height=29px&hide=contribs&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-taqft.vercel.app/api?cache_seconds=86401&username=taqft&custom_title=GitHub%20Stats&card_width=339.75px&line_height=29px&hide=contribs&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=github_dark" onerror="tryAgain(this)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-taqft.vercel.app/api/top-langs/?cache_seconds=86401&username=taqft&layout=compact&card_width=339.75px&include_all_commits=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-taqft.vercel.app/api/top-langs/?cache_seconds=86401&username=taqft&layout=compact&card_width=339.75px&include_all_commits=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=github_dark" onerror="tryAgain(this)" />
 </a>
 
 <hr />
