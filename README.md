@@ -8,7 +8,7 @@
 <hr />
 
 - 👋 Hi, I’m Ben Koenig.
-- 👀 I’m interested in Automation, UI/UX, Game Design, and being a part of a community focused on lifelong learning.
+- 👀 I’m interested in Automation, UI/UX, and being a part of a community focused on lifelong learning.
 - 🌱 I’m currently exploring C++, Java, and Python.
 - 💞️ I’m looking to collaborate on Web Apps, Game Design, CTF, and code/game jams.
 - 🤝 I'm more than happy to proofread and/or code review open issues re: web apps, react, backend, games, etc. Shoot me a message!
