@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben Koenig.
 - 👀 I’m interested in Automation, UI/UX, and being a part of a community focused on lifelong learning.
-- 🌱 I’m currently exploring 6σ, Python, Godot & GDScript.
+- 🌱 I’m currently exploring ASM, Python, Godot & GDScript.
 - 💞️ I’m looking to collaborate on Game Design, CTF, and code/game jams.
 - 🤝 I'm more than happy to proofread and/or code review open issues re: web apps, react, backend, games, etc. Shoot me a message!
 - 📫 How to reach me - ben.koenig@live.com for personal/professional contact.
