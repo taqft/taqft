@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben Koenig.
 - 👀 I’m interested in Automation, UI/UX, and being a part of a community focused on lifelong learning.
-- 🌱 I’m currently exploring Python, Rust, GO, Vue, and Angular.
+- 🌱 I’m currently exploring Python, Rust, Go, Vue, and Angular.
 - 💞️ I’m looking to collaborate on code/game jams and code reviews.
 - 🤝 I'm more than happy to proofread and/or code review open issues re: web apps, backend, games, etc. Shoot me a message!
 - 📫 How to reach me - ben.koenig@live.com for personal/professional contact.
